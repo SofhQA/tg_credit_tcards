@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)](https://raw.githubusercontent.com/SofhQA/tg_credit_tcards/refs/heads/main/menu_bot.PNG)
+![image](https://raw.githubusercontent.com/SofhQA/tg_credit_tcards/refs/heads/main/menu_bot.PNG)
 
 После выбора карты:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)](https://raw.githubusercontent.com/SofhQA/tg_credit_tcards/refs/heads/main/gen_bot.PNG)
+![image](https://raw.githubusercontent.com/SofhQA/tg_credit_tcards/refs/heads/main/gen_bot.PNG)
 
 
 ## 💻 Технологии
